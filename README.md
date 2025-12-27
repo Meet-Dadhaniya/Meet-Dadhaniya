@@ -137,7 +137,6 @@
 
 <div align="center">
 
-### 🌟 **Get In Touch** 🌟
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💬+Open+to+Collaborations;🚀+Always+Ready+to+Learn;✨+Let's+Build+Something+Together!&cache_seconds=86400" alt="Connect Typing SVG" />
