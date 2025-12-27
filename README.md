@@ -1,19 +1,19 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,12,6,25,20,4&height=150&section=header&text=Hi,%20I'm%20Meet%20Dadhaniya👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=850&lines=🚀+Aspiring+MERN+Stack+Developer;🎯+IT+Engineering+Student+@+BVM;💻+Learning+DSA+and+Web+Development;🌟+Passionate+About+Problem+Solving&cache_seconds=86400" alt="Subtitle Typing SVG" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,12,6,25,20,4&height=150&section=header&text=Hi,%20I'm%20Meet%20Dadhaniya👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=850&lines=🚀+Aspiring+MERN+Stack+Developer;🎯+IT+Engineering+Student+@+BVM;💻+Learning+DSA+and+Web+Development;🌟+Passionate+About+Problem+Solving&cache_seconds=86400" alt="Subtitle Typing SVG" />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-  <div align="right">
-     <img src="https://komarev.com/ghpvc/?username=Meet-Dadhaniya&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" alt="Profile Views" width="150px"/>
-  </div>
+  <div align="right">
+     <img src="https://komarev.com/ghpvc/?username=Meet-Dadhaniya&label=Profile%20Views&color=0e75b6&style=flat&cache_seconds=86400" alt="Profile Views" width="150px"/>
+  </div>
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  align="right" width="300" alt="Full Stack Development">
+ <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  align="right" width="300" alt="Full Stack Development">
 
 ### 🌟 Quick Facts About Me
 
@@ -116,10 +116,6 @@
 
 <br>
 
-### 📅 Contribution Graph
-<img src="http://ghchart.rshah.org/40c463/Meet-Dadhaniya" alt="Meet-Dadhaniya's Github Chart" />
-<br>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -127,20 +123,25 @@
 ## 🏆 Achievement Showcase
 
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Meet-Dadhaniya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&cache_seconds=86400" alt="GitHub Trophies" />
-  
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Meet-Dadhaniya&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&cache_seconds=86400" alt="GitHub Trophies" />
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect!
 
 <div align="center">
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💬+Open+to+Collaborations;🚀+Always+Ready+to+Learn;✨+Let's+Build+Something+Together!&cache_seconds=86400" alt="Connect Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💬+Open+to+Collaborations;🚀+Always+Ready+to+Learn;✨+Let's+Build+Something+Together!&cache_seconds=86400" alt="Connect Typing SVG" />
 </p>
+
+
 
 <div align="center">
 
@@ -151,22 +152,17 @@
 <td align="center">
 <a href="https://www.linkedin.com/in/meet-dadhaniya-303474365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdnl.iconscout.com/lottie/premium/thumb/linkedin-6875061-5607637.gif" width="100" alt="LinkedIn"/></a>
 <br>
-<strong>LinkedIn</strong>
+<a href="https://www.linkedin.com/in/meet-dadhaniya-303474365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><strong>LinkedIn</strong></a>
 </td>
 <td align="center">
 <a href="https://github.com/Meet-Dadhaniya"><img src="https://nate-wilcox.github.io/images/github.gif" width="100" alt="GitHub"/></a>
 <br>
-<strong>GitHub</strong>
+<a href="https://github.com/Meet-Dadhaniya"><strong>GitHub</strong></a>
 </td>
 <td align="center">
 <a href="https://x.com/Meet_Patel_111"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="90" alt="X"/></a>
 <br>
-<strong>X</strong>
-</td>
-<td align="center">
-<a href="mailto:patelmeet2669@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="100" alt="Email"/></a>
-<br>
-<strong>Email</strong>
+<a href="https://x.com/Meet_Patel_111"><strong>X</strong></a>
 </td>
 </tr>
 </table>
@@ -177,19 +173,19 @@
 ### 🚀 **Let's Collaborate!**
 
 <div align="center" style="margin: 30px 0;">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💡+Ready+to+build+something+amazing%3F;🚀+Let's+turn+ideas+into+reality!;✨+Code+Creates+The+Future&cache_seconds=86400" alt="Collaborate Typing SVG" />
-  
-  <br>
-  
-  <div style="padding: 25px; border-radius: 20px; display: inline-block; max-width: 500px;">
-    <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="380" style="max-width: 100%; height: auto; border-radius: 15px;" alt="Full Stack Development">
-    <br><br>
-    <p style="color: #58a6ff; font-size: 16px; margin: 0; font-weight: 500;">
-      🌟 <strong>Excited to work on innovative DSA & Web projects!</strong> 🌟
-    </p>
-  </div>
-  
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💡+Ready+to+build+something+amazing%3F;🚀+Let's+turn+ideas+into+reality!;✨+Code+Creates+The+Future&cache_seconds=86400" alt="Collaborate Typing SVG" />
+  
+  <br>
+  
+  <div style="padding: 25px; border-radius: 20px; display: inline-block; max-width: 500px;">
+    <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="380" style="max-width: 100%; height: auto; border-radius: 15px;" alt="Full Stack Development">
+    <br><br>
+    <p style="color: #58a6ff; font-size: 16px; margin: 0; font-weight: 500;">
+      🌟 <strong>Excited to work on innovative DSA & Web projects!</strong> 🌟
+    </p>
+  </div>
+  
 </div>
 
 </div>
@@ -197,17 +193,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  
-  ### ✨ Thank you for visiting my profile! ✨
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⭐;Let's+connect+and+code!+🚀;Happy+Coding!+💻&cache_seconds=86400" alt="Thanks Typing SVG" />
-  </p>
+  
+  ### ✨ Thank you for visiting my profile! ✨
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⭐;Let's+connect+and+code!+🚀;Happy+Coding!+💻&cache_seconds=86400" alt="Thanks Typing SVG" />
+  </p>
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  ---
-  
-  <sub>⭐ Star this repository if you found it helpful!</sub>
-  
-</div>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  ---
+  
+  <sub>⭐ Star this repository if you found it helpful!</sub>
+  
+</div> 
