@@ -198,10 +198,6 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⭐;Let's+connect+and+code!+🚀;Happy+Coding!+💻&cache_seconds=86400" alt="Thanks Typing SVG" />
   </p>
-
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
-  ---
   
   <sub>⭐ Star this repository if you found it helpful!</sub>
   
