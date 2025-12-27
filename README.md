@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,12,6,25,20,4&height=150&section=header&text=Hi,%20I'm%20Meet%20Dadhaniya👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=850&lines=🎯+IT+Engineering+Student+@+BVM;🚀+Aspiring+MERN+Stack+Developer;💻+Learning+DSA+and+Web+Development;🌟+Passionate+About+Problem+Solving&cache_seconds=86400" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=850&lines=🚀+Aspiring+MERN+Stack+Developer;🎯+IT+Engineering+Student+@+BVM;💻+Learning+DSA+and+Web+Development;🌟+Passionate+About+Problem+Solving&cache_seconds=86400" alt="Subtitle Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
@@ -147,12 +147,13 @@
 <table align="center" border="0" cellpadding="10" cellspacing="0" >
   <tr style="border:0 solid black; width:100%;">
     <td align="center" style="border: none;">
-      <a href="https://www.linkedin.com/in/" >
+      <a href="https://www.linkedin.com/in/meet-dadhaniya-303474365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" >
         <img src="https://cdnl.iconscout.com/lottie/premium/thumb/linkedin-6875061-5607637.gif" width="100"  alt="LinkedIn" />
       </a>
       <br>
-     <strong >LinkedIn</strong>
+     <a href="https://www.linkedin.com/in/meet-dadhaniya-303474365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><strong >LinkedIn</strong></a>
     </td>
+    
     <td align="center">
       <a href="https://github.com/Meet-Dadhaniya">
       <img src="https://nate-wilcox.github.io/images/github.gif" width="100"  alt="GitHub"/>
@@ -160,12 +161,21 @@
       <br>
        <a href="https://github.com/Meet-Dadhaniya"> <strong>GitHub</strong></a>
     </td>
+    
     <td align="center">
-       <a href="mailto:your_email@gmail.com">
+      <a href="https://x.com/Meet_Patel_111">
+        <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="80" height="80" alt="X (Twitter)"/>
+      </a>
+      <br>
+       <a href="https://x.com/Meet_Patel_111"> <strong>X (Twitter)</strong></a>
+    </td>
+
+    <td align="center">
+      <a href="mailto:patelmeet2669@gmail.com">
         <img src="https://pouch.jumpshare.com/preview/U3F1Anhi57F_c8lkiCCEfI2byi2Z_YlwLrgPFScftYrZrKhuazrquShwxJQXWox12WF5MsSeeF4IzGHrQaaYxfIcsf3jI5CWqJGjDWOoqlI" width="100" alt="Email"/>
       </a>
       <br>
-       <strong>Email</strong>
+       <a href="mailto:patelmeet2669@gmail.com"> <strong>Email</strong></a>
     </td>
   </tr>
 </table>
