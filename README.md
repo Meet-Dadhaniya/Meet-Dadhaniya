@@ -166,10 +166,7 @@
 <a href="https://x.com/Meet_Patel_111"><strong>X</strong></a>
 </td>
 <td align="center">
-<a href="mailto:patelmeet2669@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="100" alt="Email"/></a>
-<br>
-<a href="mailto:patelmeet2669@gmail.com"><strong>Email</strong></a>
-</td>
+
 </tr>
 </table>
 
