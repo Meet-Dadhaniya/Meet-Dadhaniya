@@ -116,6 +116,10 @@
 
 <br>
 
+### 📅 Contribution Graph
+<img src="http://ghchart.rshah.org/40c463/Meet-Dadhaniya" alt="Meet-Dadhaniya's Github Chart" />
+<br>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -130,18 +134,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Let's Connect!
 
 <div align="center">
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💬+Open+to+Collaborations;🚀+Always+Ready+to+Learn;✨+Let's+Build+Something+Together!&cache_seconds=86400" alt="Connect Typing SVG" />
 </p>
-
-
 
 <div align="center">
 
@@ -152,17 +151,17 @@
 <td align="center">
 <a href="https://www.linkedin.com/in/meet-dadhaniya-303474365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://cdnl.iconscout.com/lottie/premium/thumb/linkedin-6875061-5607637.gif" width="100" alt="LinkedIn"/></a>
 <br>
-<a href="https://www.linkedin.com/in/meet-dadhaniya-303474365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><strong>LinkedIn</strong></a>
+<strong>LinkedIn</strong>
 </td>
 <td align="center">
 <a href="https://github.com/Meet-Dadhaniya"><img src="https://nate-wilcox.github.io/images/github.gif" width="100" alt="GitHub"/></a>
 <br>
-<a href="https://github.com/Meet-Dadhaniya"><strong>GitHub</strong></a>
+<strong>GitHub</strong>
 </td>
 <td align="center">
 <a href="https://x.com/Meet_Patel_111"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="90" alt="X"/></a>
 <br>
-<a href="https://x.com/Meet_Patel_111"><strong>X</strong></a>
+<strong>X</strong>
 </td>
 </tr>
 </table>
