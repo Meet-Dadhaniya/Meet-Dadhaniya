@@ -163,6 +163,11 @@
 <br>
 <strong>X</strong>
 </td>
+<td align="center">
+<a href="mailto:patelmeet2669@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="100" alt="Email"/></a>
+<br>
+<strong>Email</strong>
+</td>
 </tr>
 </table>
 
