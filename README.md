@@ -2,7 +2,7 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30,12,6,25,20,4&height=150&section=header&text=Hi,%20I'm%20Meet%20Dadhaniya👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=850&lines=🚀+Aspiring+MERN+Stack+Developer;🎯+IT+Engineering+Student+@+BVM;💻+Learning+DSA+and+Web+Development;🌟+Passionate+About+Problem+Solving&cache_seconds=86400" alt="Subtitle Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=32&duration=4000&pause=1500&color=FF6B6B&center=true&vCenter=true&width=850&lines=🚀+Aspiring+MERN+Stack+Developer;💻+Learning+DSA+and+Web+Development;🌟+Passionate+About+Problem+Solving&cache_seconds=86400" alt="Subtitle Typing SVG" />
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
