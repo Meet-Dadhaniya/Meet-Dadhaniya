@@ -13,7 +13,6 @@
 </div>
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
- <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  align="right" width="300" alt="Full Stack Development">
 
 ### 🌟 Quick Facts About Me
 
